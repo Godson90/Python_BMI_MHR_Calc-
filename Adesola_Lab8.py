@@ -6,7 +6,7 @@
 # This program calculates and output the BMI of an individaul,exerscise intensive heart rate,and MHR
 
 
-print("please enter the following values for the user ...")
+print("please enter the following values.")
 validInput = 0
 
 while validInput>=0:
