@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Adesola Adeola
+# Adesola A
 # April 11 2020
 # BMI/MHR Calculator
 # This program calculates and output the BMI of an individaul,exerscise intensive heart rate,and MHR
